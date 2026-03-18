@@ -1,0 +1,13 @@
+# Foundry artifacts
+/out/
+/cache/
+
+# Libraries (installed via forge install)
+/lib/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
